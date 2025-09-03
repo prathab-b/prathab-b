@@ -1,4 +1,32 @@
-## Hi there 👋
+## Hi there 👋, I'm Prathab
+
+### About Me
+
+I'm a third year student studying computer science at the University of Toronto. I'm currently interested in
+
+- Creating useful projects
+- Learning new technologies
+- Turning ideas into code
+
+In the future, I'm also looking to explore:
+
+- Artificial intelligence
+- Machine learning (and how human learning influences machine it)
+- Web development
+- Data science and databases (and large sets of data to create meaningful programs)
+- Cybersecurity (and more about ethical hacking)
+
+### Portfolio & Projects
+
+Here are some of my projects:
+
+#### ✦ Battleship
+**Includes:** C, Linux
+A classic server-based battleship game implemented in C that allows for multiple players to play against each other in real time, each player with their own ship and the ability to guess the location(s) of opponent ships.
+
+#### ✦ Battleship
+
+### Contact Me!
 
 <!--
 **prathab-b/prathab-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
