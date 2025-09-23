@@ -32,14 +32,12 @@ Here are some of my projects:
 **Includes:** C, Linux
 A classic server-based battleship game implemented in C that allows for multiple players to play against each other in real time, each player with their own ship and the ability to guess the location(s) of opponent ships.
 
-#### ✦ Battleship
-
 ### Contact Me!
 
 You can reach me through the following:
 
-Phone: (548) 398-3717
-Email: prathabbhatti@gmail.com
+Phone: (548) 398-3717 <br>
+Email: prathabbhatti@gmail.com <br>
 LinkedIn: www.linkedin.com/in/prathab-bhatti-b0ab32330
 
 <!--
