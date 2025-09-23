@@ -2,7 +2,15 @@
 
 ### About Me
 
-I'm a third year student studying computer science at the University of Toronto. I'm currently interested in
+I'm a third year student studying computer science at the University of Toronto. Some languages and tools I'm familiar with include:
+
+- Python
+- C
+- Java
+- Shell Scripting (SH, Bash)
+- Linux
+
+I'm currently interested in
 
 - Creating useful projects
 - Learning new technologies
@@ -27,6 +35,12 @@ A classic server-based battleship game implemented in C that allows for multiple
 #### ✦ Battleship
 
 ### Contact Me!
+
+You can reach me through the following:
+
+Phone: (548) 398-3717
+Email: prathabbhatti@gmail.com
+LinkedIn: www.linkedin.com/in/prathab-bhatti-b0ab32330
 
 <!--
 **prathab-b/prathab-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
