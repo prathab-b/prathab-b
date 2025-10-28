@@ -27,15 +27,15 @@ In the future, I'm also looking to explore:
 Here are some of my projects:
 
 #### ✦ Battleship
-**Includes:** C, Linux
+**Includes:** C, Linux <br>
 A classic server-based battleship game implemented in C that allows for multiple players to play against each other in real time, each player with their own ship and the ability to guess the location(s) of opponent ships.
 
 #### ✦ Chat Server
-**Includes:** C, HTML, CSS, Javascript, Node.js, Linux
+**Includes:** C, HTML, CSS, Javascript, Node.js, Linux <br>
 A simple chat server that allows numerous users to chat with each other. It currently supports individual chats and the option to broadcast a message to everyone currently logged into the server.
 
 #### ✦ Transaction Allocator
-**Includes:** Python, Pandas, Scikit-learn, Streamlit, Excel, Windows
+**Includes:** Python, Pandas, Scikit-learn, Streamlit, Excel, Windows <br>
 An allocation software that allocates transactions in an Excel spreadsheet categorizing by provided categories (e.g. various expenses) using Scikit-learn to learn how to sort transactions automatically.
 
 ### Contact Me!
