@@ -1,14 +1,12 @@
-## Hi there 👋, I'm Prathab
+## Hi there , I'm Prathab
 
 ### About Me
 
 I'm a third year student studying computer science at the University of Toronto. Some languages and tools I'm familiar with include:
 
-- Python
-- C
-- Java
-- Shell Scripting (SH, Bash)
-- Linux
+- Languages: Python, C, Java, shell scripting (Bash, SH), HTML, CSS, JavaScript.
+- Frameworks & Libraries: Node.js, Pandas, Scikit-learn, WebSocket, Streamlit.
+- Platforms & Tools: Windows, Linux, Visual Studio Code, Eclipse.
 
 I'm currently interested in
 
@@ -32,11 +30,18 @@ Here are some of my projects:
 **Includes:** C, Linux
 A classic server-based battleship game implemented in C that allows for multiple players to play against each other in real time, each player with their own ship and the ability to guess the location(s) of opponent ships.
 
+#### ✦ Chat Server
+**Includes:** C, HTML, CSS, Javascript, Node.js, Linux
+A simple chat server that allows numerous users to chat with each other. It currently supports individual chats and the option to broadcast a message to everyone currently logged into the server.
+
+#### ✦ Transaction Allocator
+**Includes:** Python, Pandas, Scikit-learn, Streamlit, Excel, Windows
+An allocation software that allocates transactions in an Excel spreadsheet categorizing by provided categories (e.g. various expenses) using Scikit-learn to learn how to sort transactions automatically.
+
 ### Contact Me!
 
 You can reach me through the following:
 
-Phone: (548) 398-3717 <br>
 Email: prathabbhatti@gmail.com <br>
 LinkedIn: www.linkedin.com/in/prathab-bhatti-b0ab32330
 
