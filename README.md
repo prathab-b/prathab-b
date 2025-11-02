@@ -1,4 +1,4 @@
-## Hi there , I'm Prathab
+## Hi there, I'm Prathab
 
 ### About Me
 
@@ -17,7 +17,7 @@ I'm currently interested in
 In the future, I'm also looking to explore:
 
 - Artificial intelligence
-- Machine learning (and how human learning influences machine it)
+- Machine learning (and how human learning influences it)
 - Web development
 - Data science and databases (and large sets of data to create meaningful programs)
 - Cybersecurity (and more about ethical hacking)
