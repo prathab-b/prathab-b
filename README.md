@@ -1,4 +1,4 @@
-## Hi there, I'm Prathab!
+## Hi there, I'm Prathab
 
 ### About Me
 
@@ -6,21 +6,15 @@ I'm a third year student studying computer science at the University of Toronto.
 
 - Languages: Python, C, Java, shell scripting (Bash, SH), HTML, CSS, JavaScript.
 - Frameworks & Libraries: Node.js, Pandas, Scikit-learn, WebSocket, Streamlit.
-- Platforms & Tools: Windows, Linux, Visual Studio Code, Eclipse.
+- Platforms & Tools: Windows, Linux, Android Studio, Visual Studio Code, Eclipse.
 
-I'm currently interested in
-
-- Creating useful projects
-- Learning new technologies
-- Turning ideas into code
-
-In the future, I'm also looking to explore:
+I'm currently interested in:
 
 - Artificial intelligence
 - Machine learning (and how human learning influences it)
 - Web development
 - Data science and databases (and large sets of data to create meaningful programs)
-- Cybersecurity (and more about ethical hacking)
+- Cybersecurity
 
 ### Portfolio & Projects
 
@@ -44,18 +38,3 @@ You can reach me through the following:
 
 Email: prathabbhatti@gmail.com <br>
 LinkedIn: www.linkedin.com/in/prathab-bhatti-b0ab32330
-
-<!--
-**prathab-b/prathab-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
