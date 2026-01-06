@@ -22,7 +22,8 @@ Here are some of my projects:
 
 #### ✦ Battleship
 **Includes:** C, Linux <br>
-A classic server-based battleship game implemented in C that allows for multiple players to play against each other in real time, each player with their own ship and the ability to guess the location(s) of opponent ships.
+A classic server-based battleship game implemented in C that allows for multiple players to play against each other in real time, each player with their own ship and the ability to guess the location(s) of opponent ships. <br>
+**Link:** https://github.com/prathab-b/battleship
 
 #### ✦ Chat Server
 **Includes:** C, HTML, CSS, Javascript, Node.js, Linux <br>
