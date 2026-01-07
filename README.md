@@ -32,7 +32,8 @@ A simple chat server that allows multiple users to chat with each other in real 
 
 #### ✦ Transaction Allocator
 **Includes:** Python, Pandas, Scikit-learn, Streamlit, Excel, Windows <br>
-An allocation software that allocates transactions in an Excel spreadsheet categorizing by provided categories (e.g. various expenses) using Scikit-learn to learn how to sort transactions automatically.
+An allocation software that allocates transactions in an Excel spreadsheet categorizing by provided categories (e.g. various expenses) using Scikit-learn to learn how to sort transactions automatically. <br>
+**Link:** https://github.com/prathab-b/transaction_allocator
 
 ### Contact Me!
 
