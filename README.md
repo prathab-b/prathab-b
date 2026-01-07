@@ -27,7 +27,8 @@ A classic server-based battleship game implemented in C that allows for multiple
 
 #### ✦ Chat Server
 **Includes:** C, HTML, CSS, Javascript, Node.js, Linux <br>
-A simple chat server that allows numerous users to chat with each other. It currently supports individual chats and the option to broadcast a message to everyone currently logged into the server.
+A simple chat server that allows multiple users to chat with each other in real time. <br>
+**Link:** https://github.com/prathab-b/chat_server
 
 #### ✦ Transaction Allocator
 **Includes:** Python, Pandas, Scikit-learn, Streamlit, Excel, Windows <br>
