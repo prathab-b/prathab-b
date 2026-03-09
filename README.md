@@ -41,4 +41,4 @@ An allocation software that allocates transactions in an Excel spreadsheet categ
 You can reach me through the following:
 
 Email: prathabbhatti@gmail.com <br>
-LinkedIn: www.linkedin.com/in/prathab-bhatti-b0ab32330
+LinkedIn: www.linkedin.com/in/prathab-bhatti
