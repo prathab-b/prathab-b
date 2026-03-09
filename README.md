@@ -4,9 +4,10 @@
 
 I'm a third year student studying computer science at the University of Toronto. Some languages and tools I'm familiar with include:
 
-- Languages: Python, C, Java, shell scripting (Bash, SH), HTML, CSS, JavaScript.
-- Frameworks & Libraries: Node.js, Pandas, Scikit-learn, WebSocket, Streamlit.
-- Platforms & Tools: Windows, Linux, Android Studio, Visual Studio Code, Eclipse.
+- Languages: Python, C, Java, JavaScript, Bash, HTML, CSS
+- Frameworks & Libraries: React, Node.js, Express.js, Pandas, Scikit-learn, Streamlit
+- Databases: PostgreSQL, SQLite, Firebase
+- Platforms & Tools: Git, Linux, Android Studio, Visual Studio Code, Eclipse
 
 I'm currently interested in:
 
